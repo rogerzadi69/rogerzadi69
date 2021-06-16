@@ -1,4 +1,4 @@
-- 👋 Salut, Je suis Zadi Roger, je viens de dépasser la cinquantaine
+- 👋 Salut, Je suis Zadi Roger, enseignant de formation
 - 👀 Je recherche des partenaires pour m'aider à développer et à m'améliorer. Je suis un autodidacte, mais ambitieux
 - 🌱 J'étudie le java, android studio et python
 - 💞️ Je cherche des collaborateurs pour mes projets que je vais bientôt présenter
